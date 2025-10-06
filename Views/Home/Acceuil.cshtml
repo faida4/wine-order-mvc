@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    
+    <title>@ViewData["Title"] - Projet_UA2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />  
+    
+
+</head>
+<body>
+    <div class = "container">
+    <div class="text-center" style="background-image: url('/Pictures/glass-wine-with-white-grapes.jpg');">
+        <div class="centered-content">
+            <h1>Art in </h1>
+            <h1>every drop</h1>
+            <a asp-controller="Commande" asp-action="CreateCommande" class="btn btn-primary">Créer une commande</a>
+        </div>
+    </div>
+
+    
+</div>
+</body>
+</html>
+
+<style>
+    /* styles.css */
+    .container{
+        background-color: black;
+        margin: 0px;
+        padding: 0px;
+    }
+.text-center {
+   position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+     font-size: 90px;
+     font-weight: 800;
+     
+}
+.centered-content {
+   position: absolute;
+    top: 30%;
+    right: 40px; 
+    transform: translate(0, -50%);
+    text-align: right;
+    color: white;
+   
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+    
+    
+}
+.btn-primary{
+    background-color: rgb(75, 22, 22);
+    border: 1px solid rgb(75, 22, 22);
+    border-radius: 1px;
+    border-radius: 5px; 
+    font-size: 25px;
+
+  
+}
+body{
+    margin: 0px;
+    background-color:black ;
+    padding-top: 0px;
+}
+
+</style>
+

@@ -1,0 +1,153 @@
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\appsettings.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.staticwebassets.runtime.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.exe
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.deps.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.runtimeconfig.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.pdb
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.AssemblyReference.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.AssemblyInfoInputs.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.AssemblyInfo.cs
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.CoreCompileInputs.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.RazorAssemblyInfo.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.RazorAssemblyInfo.cs
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.Projet UA2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projet UA2.props
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projet UA2.props
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projet UA2.props
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\bundle\Projet UA2.styles.css
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\projectbundle\Projet UA2.bundle.scp.css
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\refint\Projet UA2.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.pdb
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.genruntimeconfig.cache
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\ref\Projet UA2.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.CopyComplete
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\faida\OneDrive - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\appsettings.Development.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\appsettings.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.staticwebassets.runtime.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.staticwebassets.endpoints.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.exe
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.deps.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.runtimeconfig.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Projet UA2.pdb
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Azure.Core.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Azure.Identity.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Humanizer.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.CodeDom.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.AssemblyReference.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.AssemblyInfoInputs.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.AssemblyInfo.cs
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.CoreCompileInputs.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.MvcApplicationPartsAssemblyInfo.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.RazorAssemblyInfo.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.RazorAssemblyInfo.cs
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\bundle\Projet UA2.styles.css
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\scopedcss\projectbundle\Projet UA2.bundle.scp.css
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.build.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.development.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.Projet UA2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.Projet UA2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.build.Projet UA2.props
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projet UA2.props
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projet UA2.props
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.csproj.Up2Date
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\refint\Projet UA2.dll
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.pdb
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\Projet UA2.genruntimeconfig.cache
+D:\Faida Ngandu - Collège la Cité\Projet UA2\obj\Debug\net7.0\ref\Projet UA2.dll

@@ -1,0 +1,80 @@
+@model List<Produit>
+  <!-- Lien vers le fichier CSS -->
+<link rel="stylesheet" href="~/css/formulaire.css" asp-append-version="true" />
+
+<h1>Formulaire de commande</h1>
+<br>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-controller="Commande" asp-action="CreateCommande" method="post">
+           
+            <label for="prenom">Prénom:</label>
+            <input type="text" id="prenom" name="prenom" required>
+
+            <label for="nom">Nom:</label>
+            <input type="text" id="nom" name="nom" required>
+
+            <label for="dateNaissance">Date de naissance:</label>
+            <input type="date" id="dateNaissance" name="dateNaissance" required>
+
+            <label for="numeroTelephone">Numéro de téléphone:</label>
+            <input type="tel" id="numeroTelephone" name="numeroTelephone" placeholder="000-000-0000" required>
+
+            <label for="dateNaissance">Adresse:</label>
+            <input type="text" id="adresse" name="adresse" required>
+
+            <label for="codePostal">Code Postal:</label>
+            <input type="text" id="codePostal" name="codePostal" required>
+
+            <label for="produitID">Produit à commander:</label>
+            <select id="produitID" name="produitID" required>
+
+            
+                @if (Model != null)
+                {
+                    for (int i = 0; i < Model.Count; i++)
+                    {
+                        var produit = Model[i];
+                        <option value="@produit.ProduitID">@produit.DescriptionProduit</option>
+                    }
+                }
+                else
+                {
+                    <option value="">No produits available</option>
+                }
+            </select>
+          
+            <label for="quantité">Quantité:</label>
+<select id="quantité" name="quantité" onchange="updatePrixTotal()" required>
+    @for (int quantité = 1; quantité <= 10; quantité++)
+    {
+        <option value="@quantité">@quantité</option>
+    }
+</select>
+
+            <button type="submit">Soumettre la commande</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    
+   
+    function updatePrixTotal() {
+        // Obtenir la quantité sélectionnée
+        var quantite = document.getElementById("quantité").value;
+
+        // Obtenir le prix unitaire depuis le modèle Razor
+        var prixUnitaire = @Model.FirstOrDefault()?.Prix ?? 0;
+
+        // Calculer le prix total
+        var prixTotal = quantite * prixUnitaire;
+
+        // Mettre à jour l'élément span avec le nouveau prix total
+        document.getElementById("prixTotal").textContent = "Prix Total: " + prixTotal.toFixed(2);
+    }
+
+
+</script>
+
+

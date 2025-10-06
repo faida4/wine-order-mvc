@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projet UA2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Projet UA2.cnbsog93eq.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\55948Cakebread-Cellars-Cabernet-Sauvignon-Dancing-Bear-Ranch-202.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\55948Cakebread-Cellars-Cabernet-Sauvignon-Dancing-Bear-Ranch-202.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Alexander Valley.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Alexander Valley.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Arkenstone.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Arkenstone.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\BODEGA-NUMANTHIA-2016-RED-WINE-NUMANTHIA.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\BODEGA-NUMANTHIA-2016-RED-WINE-NUMANTHIA.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Borgogno_Barolo_Fossati.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Borgogno_Barolo_Fossati.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Cirillo.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Cirillo.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Deerfield Ranch.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Deerfield Ranch.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Designer.png",
+      "PackagePath": "staticwebassets\\Pictures\\Designer.png"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Don_Melchor.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Don_Melchor.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Fabio-Oberto-Barolo-2018.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Fabio-Oberto-Barolo-2018.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\Honig_Cabernet_Sauvignon.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\Honig_Cabernet_Sauvignon.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\MICHELE-CHIARLO-PALAS-BAROLO.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\MICHELE-CHIARLO-PALAS-BAROLO.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\banner-wine-festival-glass-wine-distillery-old-wooden-table-with-bunches.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\banner-wine-festival-glass-wine-distillery-old-wooden-table-with-bunches.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\borgogno_barolo_liste.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\borgogno_barolo_liste.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\chateau_giscours.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\chateau_giscours.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\envy-cabernet-sauvignon.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\envy-cabernet-sauvignon.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\fatal_shore_pinot_noir_hres.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\fatal_shore_pinot_noir_hres.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\glass-wine-grapes-wooden-barrels-fresh.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\glass-wine-grapes-wooden-barrels-fresh.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\glass-wine-with-white-grapes.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\glass-wine-with-white-grapes.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\icone.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\icone.jpeg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p10.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p10.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p11.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p11.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p12.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p12.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p13.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p13.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p14.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p14.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p15.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p15.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p16.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p16.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p6.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p7.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p8.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\p9.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\p9.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\side-view-jug-with-red-wine-grape-dark-horizontal.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\side-view-jug-with-red-wine-grape-dark-horizontal.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\wine.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\wine.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\wine_955958.png",
+      "PackagePath": "staticwebassets\\Pictures\\wine_955958.png"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\Pictures\\yalumba-samuels.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\yalumba-samuels.jpg"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\css\\confirmation-commande.css",
+      "PackagePath": "staticwebassets\\css\\confirmation-commande.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\css\\custom-navbar.css",
+      "PackagePath": "staticwebassets\\css\\custom-navbar.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\css\\formulaire.css",
+      "PackagePath": "staticwebassets\\css\\formulaire.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\css\\produits.css",
+      "PackagePath": "staticwebassets\\css\\produits.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Faida Ngandu - Collège la Cité\\Projet UA2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Projet UA2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Projet UA2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Projet UA2.props",
+      "PackagePath": "build\\Projet UA2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Projet UA2.props",
+      "PackagePath": "buildMultiTargeting\\Projet UA2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Projet UA2.props",
+      "PackagePath": "buildTransitive\\Projet UA2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

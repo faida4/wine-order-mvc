@@ -1,0 +1,47 @@
+/* wwwroot/css/formulaire.css */
+
+
+h1 {
+    color: #000000; /* Couleur du titre */
+    font-size: 50px; /* Taille de la police du titre */
+}
+
+label {
+    color: #333;
+    font-family: 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+input,
+select {
+    width: 80%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #481818; /* Couleur de fond du bouton */
+    color: #fff; /* Couleur du texte du bouton */
+    padding: 10px; /* Espacement interne du bouton */
+    border-radius: 5px;
+    border: none; /* Supprimez la bordure du bouton */
+    cursor: pointer; /* Changez le curseur au survol du bouton */
+    margin-bottom: 15px;
+    display: block;
+    font-size: 20px;
+    font-family: 'Times New Roman', serif;
+}
+/* Ajustement pour les étiquettes à côté des champs de saisie */
+form label {
+    display: block;
+}
+
+/* Ajustement pour les champs de saisie */
+form input,
+form select {
+    width: 80%;
+}

@@ -1,0 +1,86 @@
+/* wwwroot/css/custom-navbar.css */
+
+
+.navbar 
+ {
+  
+  background-color: rgb(0, 0, 0);
+    background-color: black; /* Remplacez 'black' par la couleur souhaitée */
+    border-bottom: 7px solid rgb(0, 0, 0);
+
+}
+
+.bg-white {
+  --bs-bg-opacity: 1;
+  background-color: rgb(14 14 14) ;
+}
+.navbar {
+    background-color: rgb(0, 0, 0);
+    background-color: black; /* Remplacez 'black' par la couleur souhaitée */
+    border-bottom: 1px solid rgb(0, 0, 0); /* Bordure blanche sous la barre de navigation (facultatif) */
+    padding: 0px;
+    margin: 0px;
+  }
+  .container-fluid{
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+  }
+  .navbar-brand {
+    color: white;
+    font-weight: bold;
+    display: flex; /* Ajout de flex pour aligner les éléments en ligne */
+    align-items:center; /* Aligner les éléments au centre verticalement */
+    margin-left: 50px;
+  }
+  .nav-title {
+    font-size: 1.5rem; /* Taille de la police pour le titre Wine */
+    font-weight: bold;
+    margin-left: 10px; /* Ajoutez un espacement avec l'icône */
+    font-family: 'Times New Roman', serif;
+}
+
+  
+  .navbar-toggler-icon {
+    background-color:black;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 20px; 
+    color: white; /* Couleur du texte */
+    font-family: 'Times New Roman', serif;
+    font-weight: 300;
+    text-decoration: none;
+    justify-content: center; /* Centrer les liens horizontalement */
+  }
+ 
+  
+  /* Aligner les liens de droite à gauche */
+  .navbar-collapse {
+    flex-grow: 0;
+  }
+  
+  .navbar-nav {
+    display: flex; /* Ajout de flex pour aligner les liens en ligne */
+   align-items: center; /* Aligner les liens au centre verticalement */
+   justify-content: center; /* Centrer les liens horizontalement */
+  }
+  
+  /* Ajouter une marge entre les liens */
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  
+  
+  .wine-icon{
+    width: 100px;
+    height: 100px;
+  }
+  
+  
+  
+  
+  
+  
+  

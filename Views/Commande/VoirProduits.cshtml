@@ -1,0 +1,26 @@
+@model List<Produit>
+
+<!-- Lien vers le fichier CSS -->
+<link rel="stylesheet" href="~/css/produits.css" asp-append-version="true" />
+
+
+<h1>Bienvenue dans notre boutique en ligne!</h1>
+
+<p>Découvrez notre sélection de produits de haute qualité.</p>
+
+<div class="product-container">
+    @foreach (var produit in Model)
+    {
+        <div class="product">
+            <img src="@produit.ImageUrl" alt="@produit.DescriptionProduit" />
+            <div class="product-description">
+                <p>@produit.DescriptionProduit</p>
+                <p>Prix: @produit.Prix</p>
+                <form asp-controller="Commande" asp-action="CreateCommande" method="get">
+                    <input type="hidden" name="produitID" value="@produit.ProduitID" />
+                    <button type="submit" class="btn btn-primary">Commander</button>
+                </form>
+            </div>
+        </div>
+    }
+</div>

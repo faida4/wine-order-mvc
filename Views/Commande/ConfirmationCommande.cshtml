@@ -1,0 +1,42 @@
+
+@model Projet_UA2.ConfirmationCommandeViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Confirmation de Commande - WineShop</title>
+    <!-- Lien vers le fichier CSS -->
+    <link rel="stylesheet" href="~/css/confirmation-commande.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <h1>Confirmation de Commande</h1>
+        <h2>Merci pour votre commande!</h2>
+        <h3>Nous vous remercions d'avoir choisi WineShop pour votre achat de vin. Votre commande a été traitée avec succès.</h3>
+
+        <div class="customer-info">
+            <h4>Informations du client</h4>
+            <p>Numéro de Client: @Model.ClientID</p>
+            <p>Nom Client: @Model.Nom</p>
+            <p>Prenom Client: @Model.Prenom</p>
+            <p>Date de Naissance Client: @Model.FormattedDateNaissanceClient</p>
+            <p>Numéro de Téléphone Client: (+1) @Model.NumeroTelephone</p>
+            <p>Adresse Client: @Model.AdresseClient</p>
+            <p>Code Postal Client: @Model.CodePostalClient</p>
+        </div>
+
+        <div class="order-details">
+            <h4>Details de la commande</h4>
+            <p>Numéro de Commande: #@Model.CommandeID</p>
+            <p>Produit: @Model.DescriptionProduit</p>
+            <p>Quantité: @Model.Quantité</p>
+            <p>Prix Total du Produit: @Model.PrixTotalProduit CAD</p>
+            <p>Date de Commande: @Model.DateCommande</p>
+            <p>Statut de Commande: @Model.StatutCommande</p>
+            
+        </div>
+    </div>
+</body>
+</html>

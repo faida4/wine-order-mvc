@@ -1,0 +1,40 @@
+/* wwwroot/css/confirmation-commande.css */
+
+
+body {
+    background-color: #f8f8f8; /* Couleur de fond similaire à celle de la barre de navigation */
+}
+
+.container {
+    background-color: #fff; /* Fond blanc pour le contenu */
+    padding: 20px; /* Ajout de l'espacement interne pour le contenu */
+    border-radius: 10px; /* Bordure arrondie pour le contenu */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Légère ombre autour du contenu */
+}
+
+h1, h2, h3{
+    color: #372d2d; /* Couleur du texte similaire à celle de la barre de navigation */
+    text-align: center; /* Centrer les titres */
+}
+h3{
+    font-size: 18px;
+}
+h4{
+    color: #ffffff; /* Couleur du texte similaire à celle de la barre de navigation */
+    text-align: center; /* Centrer les titres */
+
+}
+
+.customer-info, .order-details {
+    background-color: #221f1f; /* Fond blanc pour les sections d'informations */
+    margin-top: 20px; /* Marge supérieure pour les sections d'informations */
+    padding: 15px; /* Espacement interne pour les sections d'informations */
+    border-radius: 8px; /* Bordure arrondie pour les sections d'informations */
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); /* Légère ombre autour des sections d'informations */
+}
+
+.customer-info p, .order-details p {
+    color: #ffffff; /* Couleur du texte similaire à celle de la barre de navigation */
+}
+
+
